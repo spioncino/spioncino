@@ -1,11 +1,1 @@
-### Hello :beetle:
-#### This is where I'm testing something out
-##### Someday there will be something bigger here than there is now
-###### Or maybe not? :cloud:
-
-```mermaid
-erDiagram
-    TEST ||--o{ TEST : TEST
-    TEST ||--|{ TEST : TEST
-    TEST }|..|{ TEST : TEST
-```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spioncino&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
