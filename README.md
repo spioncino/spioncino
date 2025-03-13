@@ -12,13 +12,13 @@
 ---
 
 I am always participating in some kind of competition, like **hackathons**:
-- 🥈[ExpoHack](https://xn--80atboel4a0d.xn--p1ai/) - creation of a customer base management system.
+- 🥈[**ExpoHack**](https://xn--80atboel4a0d.xn--p1ai/) - creation of a customer base management system.
   - **Stack**: JavaScript, React, React-Router, Zustand, Vite.
-- 🥈[Ecoton](https://green-code-moscow.ru/) - creating a resource about the red book views of moscow.
+- 🥈[**Ecoton**](https://green-code-moscow.ru/) - creating a resource about the red book views of moscow.
   - **Stack**: JavaScript, React, React-Router, Zustand, Vite.
-- 🥉[NaimixCode](https://naimixcode.ru/) - developing functionality for recruiters.
+- 🥉[**NaimixCode**](https://naimixcode.ru/) - developing functionality for recruiters.
   - **Stack**: TypeScript, Next.js, Zustand, Vite.
-- 4/17 | MTS True Tech SystemHack.
+- 4/17 | **MTS True Tech SystemHack**.
   - **Stack**: JavaScript, React Native, Expo Router, Expo SDK, EAS.
 
 ---
