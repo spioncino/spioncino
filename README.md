@@ -16,10 +16,12 @@ I am always participating in some kind of competition, like **hackathons**:
   - **Stack**: JavaScript, React, React-Router, Zustand, Vite.
 - 🥈[**Ecoton**](https://green-code-moscow.ru/) - creating a resource about the red book views of moscow.
   - **Stack**: JavaScript, React, React-Router, Zustand, Vite.
+- 🥈[**SeconHack**](https://secon.ru/novosti/secon-hakaton/) - creation of mobile application for energy inspector work.
+  - **Stack**: TypeScript, React Native, Expo Router, Expo SDK, Zustand, EAS. 
 - 🥉[**NaimixCode**](https://naimixcode.ru/) - developing functionality for recruiters.
   - **Stack**: TypeScript, Next.js, Zustand, Vite.
 - 4/17 | **MTS True Tech SystemHack**.
-  - **Stack**: JavaScript, React Native, Expo Router, Expo SDK, EAS.
+  - **Stack**: TypeScript, React Native, Expo Router, Expo SDK, Jotai, EAS.
 
 ---
 
