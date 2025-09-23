@@ -4,32 +4,24 @@
         spioncino
     </a>
   </h1>
-  <p>
-    Hi, i am a frontend dev doing cool stuff, for example, i am currently working on a habits app - <b><a href='https://github.com/spioncino/habitly'>habitly</a></b>.
-  </p>
 </div>
 
+**🧑‍💻 Competitions & Hackathons:**
+| Medal |Event | Description | Stack |
+|:----:|:-----------:|:-------:|:-----:|
+| 🥈 | [ExpoHack](https://xn--80atboel4a0d.xn--p1ai/) | Customer base management system | JavaScript, React, Zustand |
+| 🥈 | [Ecoton](https://green-code-moscow.ru/) | Red book views of Moscow resource | JavaScript, React, Zustand |
+| 🥈 | [SeconHack](https://secon.ru/novosti/secon-hakaton/) | Mobile app for energy inspector | TypeScript, React Native, Expo SDK, Zustand | 
+| 🥈 | [MORE.TECH 2025](https://moretech.vtb.ru/) | Employee schedule system | FIS Platform, JavaScript | 
+| 🥉 | [NaimixCode](https://naimixcode.ru/) | Recruiter functionality | TypeScript, Next.js, Zustand | 
+| 4/17 | [MTS True Tech SystemHack](https://truetecharena.ru/contests/system-hack-nn#/) | Mobile app for a "comfortable" home | TypeScript, React Native, Jotai, Expo SDK |
 ---
+**🛠️ My tech stack:**
 
-I am always participating in some kind of competition, like **hackathons**:
-- 🥈[**ExpoHack**](https://xn--80atboel4a0d.xn--p1ai/) - creation of a customer base management system.
-  - **Stack**: JavaScript, React, React-Router, Zustand, Vite.
-- 🥈[**Ecoton**](https://green-code-moscow.ru/) - creating a resource about the red book views of moscow.
-  - **Stack**: JavaScript, React, React-Router, Zustand, Vite.
-- 🥈[**SeconHack**](https://secon.ru/novosti/secon-hakaton/) - creation of mobile application for energy inspector work.
-  - **Stack**: TypeScript, React Native, Expo Router, Expo SDK, Zustand, EAS. 
-- 🥉[**NaimixCode**](https://naimixcode.ru/) - developing functionality for recruiters.
-  - **Stack**: TypeScript, Next.js, Zustand, Vite.
-- 4/17 | **MTS True Tech SystemHack**.
-  - **Stack**: TypeScript, React Native, Expo Router, Expo SDK, Jotai, EAS.
-
----
-
-Besides, I am always learning new things and not afraid to try new technologies!
-
-🛠️ **My tech stack**: HTML, CSS, JavaScript, TypeScript, React, Next.js, React Native, Zustand, Redux, Tailwind, Vite, Docker, Git.
+HTML / CSS / Python / JavaScript / TypeScript / React / Vue / Next.js / Nuxt.js / React Native / Zustand / Pinia / Tailwind / Vite / Docker / Git.
 
 --- 
 
-📨 Contact:
-- **discord**: spioncino
+**📨 Contact:**
+- **Discord**: spioncino
+- **Github**: [spioncino](https://github.com/spioncino)
