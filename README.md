@@ -9,6 +9,7 @@
 **🧑‍💻 Competitions & Hackathons:**
 | Medal |Event | Description | Stack |
 |:----:|:-----------:|:-------:|:-----:|
+| 🥇 | [TulaHackDays 2025]([https://xn--80atboel4a0d.xn--p1ai/](https://tulahackdays.ru/2025/)) | Interactive health map | JavaScript, Vue, Pinia |
 | 🥈 | [ExpoHack](https://xn--80atboel4a0d.xn--p1ai/) | Customer base management system | JavaScript, React, Zustand |
 | 🥈 | [Ecoton](https://green-code-moscow.ru/) | Red book views of Moscow resource | JavaScript, React, Zustand |
 | 🥈 | [SeconHack](https://secon.ru/novosti/secon-hakaton/) | Mobile app for energy inspector | TypeScript, React Native, Expo SDK, Zustand | 
